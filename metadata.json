@@ -1,0 +1,5 @@
+{
+  "name": "Memegram",
+  "description": "A Telegram-style bot-only chat application with local storage and media handling.",
+  "requestFramePermissions": ["storage"]
+}
